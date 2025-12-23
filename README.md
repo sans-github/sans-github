@@ -2,4 +2,4 @@
 
 # About
 
-To experiment backend, cloud, and software design.
+Dabble ares: backend, cloud, software design and ML
