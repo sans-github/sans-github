@@ -2,4 +2,4 @@
 
 # About
 
-Dabble ares: backend, cloud, software design and ML
+Dabble areas: backend, cloud, software design, AI, ML, Rag
